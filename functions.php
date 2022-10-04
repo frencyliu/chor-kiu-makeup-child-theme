@@ -9,6 +9,8 @@ include_once __DIR__ . '/includes/wcmp.php';
 include_once __DIR__ . '/includes/my-account.php';
 include_once __DIR__ . '/includes/before-after.php';
 include_once __DIR__ . '/includes/register_form/index.php';
+include_once __DIR__ . '/includes/CPT/job.php';
+
 
 
 
